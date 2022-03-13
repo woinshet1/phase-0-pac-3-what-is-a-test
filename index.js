@@ -1,5 +1,4 @@
-const name = "Joe";
-const height = 74;
-const message = `${name} is ${height} inches tall`;
+console.log("my name is woinshet");
 
-module.exports = {name, height, message};
+console.log("height 65");
+console.log('${name} is woinshet ${height} inches tall 65');

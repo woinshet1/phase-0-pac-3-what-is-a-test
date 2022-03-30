@@ -1,4 +1,8 @@
-console.log("my name is woinshet");
 
-console.log("height 65");
-console.log('${name} is woinshet ${height} inches tall 65');
+const name = "Susan";
+const height = 35;
+
+const message = `${name} is ${height} inches tall`;
+
+module.exports = { name, height, message };
+console.log(message);
